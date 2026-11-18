@@ -3,3 +3,7 @@ build/
 *.keystore
 *.apk
 *.idsig
+build/
+*.apk
+*.idsig
+android.jar
